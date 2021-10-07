@@ -24,7 +24,7 @@ body
 .img{
   height:1300px;
   width:130%;
-  background-image:url("/img/download.png");
+  background-image:url("../img/download.png");
   background-repeat:no-repeat;
   background-size:contain;
   /*color:Red;*/
