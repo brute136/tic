@@ -1,0 +1,43 @@
+*{
+  margin:0;
+  padding:0;
+}
+body
+{
+  font-size: 40pt;
+  font-family:serif;
+  /*background-image:url("/img/download.jpeg");
+  background-repeat:no-repeat;
+  background-size:cover;*/
+}
+.name{
+  text-align:center;
+  height:200px;
+  margin-top:40px;
+  width:130%;
+  color:Blue;
+  border-width:5px;
+  padding-top:60px;
+  border-style:solid;
+  border-radius:50px;
+}
+.img{
+  height:1300px;
+  width:130%;
+  background-image:url("/img/download.png");
+  background-repeat:no-repeat;
+  background-size:contain;
+  /*color:Red;*/
+  background-position:center;
+  /*background-repeat:repeat-y;*/
+}
+#Just{
+  /*margin-top:100px;*/
+  color:BlueViolet;
+  text-align:center;
+  width:120%;
+  margin:50px;
+  border:3px solid Black;
+  border-radius:40px;
+  
+}
